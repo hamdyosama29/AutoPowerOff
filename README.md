@@ -1,7 +1,5 @@
 # AutoPowerOff
 A program to shut down the operating system at a certain time
-
-![Python](https://www.python.org/static/img/python-logo.png)
 ![..](AutoPowerOff.jpeg)
 ```python
 from datetime import datetime
